@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  background-image: url("https://transparenttextures.com/patterns/cubes.png");
+}
+
+.header {
+  height: 60px;
+  background-color: aqua;
+  color: white;
+  text-align: center;
+  font-size: 2rem;
+  box-shadow: 0 1px 5px rgb(80, 80, 80);
+}
+
+.header p {
+  text-transform: uppercase;
+}
+
+.tweets {
+  margin: 40px;
+  border-radius: 10px;
+  width: 40%;
+  background-color: rgb(89, 183, 245);
+  box-shadow: 0 1px 5px rgb(80, 80, 80);
+}
+
+.tweets p {
+  padding: 15px;
+}
+
+.person {
+  padding: 10px;
+  display: flex;
+  border-bottom: dashed 1px rgb(235, 235, 235);
+}
+
+.person img {
+  border-radius: 5px;
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(182, 182, 182);
+}
+
+.addtweet {
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 40px;
+  width: 40%;
+  height: 250px;
+  box-shadow: 0 1px 5px rgb(80, 80, 80);
+  text-align: center;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+
+.addtweet input {
+  position: relative;
+  top: 20px;
+  margin: auto;
+  width: 450px;
+}
+
+.addtweet textarea {
+  position: relative;
+  top: 30px;
+  margin: auto;
+  width: 450px;
+}
+
+.addtweet button {
+  position: relative;
+  top: 50px;
+}
