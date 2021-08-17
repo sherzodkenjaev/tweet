@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/tweet/static/js/main.ed4f3ca5.chunk.js",
+    "main.js.map": "/tweet/static/js/main.ed4f3ca5.chunk.js.map",
+    "runtime-main.js": "/tweet/static/js/runtime-main.10a58f0a.js",
+    "runtime-main.js.map": "/tweet/static/js/runtime-main.10a58f0a.js.map",
+    "static/js/2.739176cc.chunk.js": "/tweet/static/js/2.739176cc.chunk.js",
+    "static/js/2.739176cc.chunk.js.map": "/tweet/static/js/2.739176cc.chunk.js.map",
+    "index.html": "/tweet/index.html",
+    "static/js/2.739176cc.chunk.js.LICENSE.txt": "/tweet/static/js/2.739176cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a58f0a.js",
+    "static/js/2.739176cc.chunk.js",
+    "static/js/main.ed4f3ca5.chunk.js"
+  ]
+}
